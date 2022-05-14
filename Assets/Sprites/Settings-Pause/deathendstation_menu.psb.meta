@@ -1,0 +1,2415 @@
+fileFormatVersion: 2
+guid: eed4a47e7e6b3fb418d6888758e6c9b6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: AOI
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 336
+      width: 25
+      height: 41
+    spriteID: 0ab0bd8f50f34984fb34d7081d367b14
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 275, y: 245}
+  - name: Boss Clear Flame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 315
+      width: 6
+      height: 10
+    spriteID: 7d73c81bf8db2a34b8cbebf12993701b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 604, y: 220}
+  - name: Boss Counter
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 367
+      y: 409
+      width: 28
+      height: 16
+    spriteID: 70a2561e42f1cd344a49c95f30176407
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 124, y: 317}
+  - name: Menu Text example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 336
+      width: 93
+      height: 67
+    spriteID: b9553b8a8ba1da247b51e439d0fd6790
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 84, y: 271}
+  - name: Menu Buttons
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 336
+      width: 75
+      height: 65
+    spriteID: 6c20bc99961f1f043abc8eb4818abaeb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 275, y: 294}
+  - name: Menu Borders
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 192
+      width: 208
+      height: 96
+    spriteID: 283fec3ae9d6fdc499921c51a6e66b94
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 580, y: 148}
+  - name: Menu Select Bar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 411
+      width: 85
+      height: 5
+    spriteID: 08ea562d2e93d1947b3093ae89d98e30
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 180, y: 310}
+  - name: Menu Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 4
+      width: 96
+      height: 79
+    spriteID: 6da8546fff0919a4ebf6404a6c8110e2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 882, y: -32}
+  - name: Menu Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 336
+      width: 208
+      height: 96
+    spriteID: 426ea24f58840354d8a2e46e1ca9225c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: 292}
+  - name: Select Pointer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1005
+      y: 178
+      width: 5
+      height: 6
+    spriteID: c225c139e95733a4798d77adc88face8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 906, y: 60}
+  - name: Settings Border
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 4
+      width: 176
+      height: 180
+    spriteID: af0b408305eeadf43acaf46b5e4f4ee8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 260, y: 4}
+  - name: SETTINGS Title
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 424
+      width: 50
+      height: 8
+    spriteID: 0e2faa5e5337c7045a6c17bf8452b176
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 85, y: 284}
+  - name: Settings 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 296
+      width: 77
+      height: 30
+    spriteID: be11bb2afad974643a7d3021e08fa253
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 561, y: 201}
+  - name: Settings 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 868
+      y: 274
+      width: 82
+      height: 47
+    spriteID: 04ec3c16370deac4ba9e5d7830cb6968
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 749, y: 237}
+  - name: Sound vol bar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1004
+      y: 207
+      width: 4
+      height: 8
+    spriteID: e025f4fae30a66945961787d0c31e105
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 809, y: 91}
+  - name: Music Vol bar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1004
+      y: 223
+      width: 4
+      height: 8
+    spriteID: c83abb8ea8bf4284c8ad1608fabee093
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 815, y: 118}
+  - name: Volume Bars
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 409
+      width: 38
+      height: 15
+    spriteID: 97ef64a35834e684ab0cde6e3dc45394
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 143, y: 303}
+  - name: Screen Res Arrows
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 794
+      y: 315
+      width: 48
+      height: 6
+    spriteID: cac10f422af5c394b9fc5399416f030e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 621, y: 219}
+  - name: Screen Res example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 424
+      width: 34
+      height: 8
+    spriteID: 3a7ce300f0df723469f909ec62ef7cd8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 98, y: 329}
+  - name: Settings Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 516
+      y: 4
+      width: 174
+      height: 180
+    spriteID: 16d50036c50dec346b55b6c36818ba2d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 443, y: 4}
+  - name: Aura Select Bar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 958
+      y: 325
+      width: 44
+      height: 1
+    spriteID: e43f1c32bceb7ca43b90dd0cd07e3ed0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 814, y: 162}
+  - name: Red Equip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 839
+      y: 296
+      width: 6
+      height: 7
+    spriteID: d3065bc62a4cb6241951f5e93f6be1af
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 706, y: 157}
+  - name: Green Equip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 853
+      y: 296
+      width: 6
+      height: 7
+    spriteID: 6e6b136549990a2418554e73b5b25392
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 720, y: 144}
+  - name: Blue Equip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1004
+      y: 192
+      width: 6
+      height: 7
+    spriteID: db29a2be05533af47973b5a8b0b99c02
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 871, y: 27}
+  - name: AURAS Title
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 698
+      y: 148
+      width: 36
+      height: 8
+    spriteID: 4673ff8e178908a45a57e40ae5dfa131
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 614, y: 26}
+  - name: Essence List example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 868
+      y: 192
+      width: 128
+      height: 74
+    spriteID: 4b8e0c679c5b5d04f820622191c07927
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 724, y: 92}
+  - name: Aura Text example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 296
+      width: 94
+      height: 11
+    spriteID: 980530d04b4d02640bc425d1de2a6122
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 601, y: 231}
+  - name: Aura Border
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 698
+      y: 4
+      width: 208
+      height: 136
+    spriteID: 1dc7a40a787380d46acad144e70d40f3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 626, y: -40}
+  - name: Combat Select
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 962
+      y: 178
+      width: 35
+      height: 5
+    spriteID: 6b81d149f80cdef4ab25b8ac62a5e070
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 893, y: 121}
+  - name: Spirit Select
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 742
+      y: 148
+      width: 32
+      height: 5
+    spriteID: c5b7fb82883069946b46169677f65a03
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 683, y: 76}
+  - name: Passive Select
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 178
+      width: 40
+      height: 5
+    spriteID: ce95671267c94504683f40c0314549af
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 845, y: 92}
+  - name: Essence Categories
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 958
+      y: 274
+      width: 56
+      height: 43
+    spriteID: 5f7bc2337a35c634bbbea87307da41ba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 905, y: 220}
+  - name: Aura Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 91
+      width: 96
+      height: 79
+    spriteID: 9375813eb098c9b4bb07e5c81eee7889
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 882, y: 55}
+  - name: Aura Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 192
+      width: 208
+      height: 136
+    spriteID: 023e556b2f5df7042b9530f653257205
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: 148}
+  - name: Moveset Borders
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 192
+      width: 208
+      height: 136
+    spriteID: 0e146e016ab2f48439acb07595d2712c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 165, y: 148}
+  - name: MOVESET Title
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 315
+      width: 49
+      height: 8
+    spriteID: 94e9c074be6e8f74a890ede9be35f480
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 669, y: 151}
+  - name: Moveset Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 436
+      y: 192
+      width: 208
+      height: 136
+    spriteID: a3c059dd0fd69244c8ff09b5b41bb885
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 381, y: 148}
+  - name: BG REF
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 320
+      height: 180
+    spriteID: 40237027baa61bb49a96e5fcee00707c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  rigSpriteImportData:
+  - name: AOI
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 336
+      width: 25
+      height: 41
+    spriteID: 87c689d8ec196b64a993d532b02e5bbb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 275, y: 245}
+  - name: Boss Clear Flame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 315
+      width: 6
+      height: 10
+    spriteID: 7543bcdd90618f84ab96c791a46352a5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 604, y: 220}
+  - name: Boss Counter
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 367
+      y: 409
+      width: 28
+      height: 16
+    spriteID: df664fd4047406f47a0df6e565fbba7f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 124, y: 317}
+  - name: Menu Text example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 336
+      width: 93
+      height: 67
+    spriteID: 352030d996eb8654685e0248fe617c45
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 84, y: 271}
+  - name: Menu Buttons
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 336
+      width: 75
+      height: 65
+    spriteID: 49f22daf3ebc45b4bb03675fd493e662
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 275, y: 294}
+  - name: Menu Borders
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 192
+      width: 208
+      height: 96
+    spriteID: c4fdf5bd220791b45909b1d2cd3bed55
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 580, y: 148}
+  - name: Menu Select Bar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 411
+      width: 85
+      height: 5
+    spriteID: 7dfcba4bffa2e44498a2e7814abfbc4b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 180, y: 310}
+  - name: Menu Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 4
+      width: 96
+      height: 79
+    spriteID: 9a8f5a74799755c45af7419f4c24fd71
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 882, y: -32}
+  - name: Menu Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 336
+      width: 208
+      height: 96
+    spriteID: 8446f11f8bd0a904aa06f5f73a0b42cc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: 292}
+  - name: BG REF
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 320
+      height: 180
+    spriteID: 7dd3e68ad44bfb149b32ca22c15266f8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Select Pointer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1005
+      y: 178
+      width: 5
+      height: 6
+    spriteID: 21ebc242406bb1c498590937f70950b6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 906, y: 60}
+  - name: Settings Border
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 4
+      width: 176
+      height: 180
+    spriteID: d974228ee5f454648a8b5a8b266511d1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 260, y: 4}
+  - name: SETTINGS Title
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 424
+      width: 50
+      height: 8
+    spriteID: a3a517d5fe0989e4c89775bef819ba3e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 85, y: 284}
+  - name: Settings 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 296
+      width: 77
+      height: 30
+    spriteID: 54fbac2641965484e9fa71879b346dd1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 561, y: 201}
+  - name: Settings 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 868
+      y: 274
+      width: 82
+      height: 47
+    spriteID: cf4c22add7ca5654d80187186e68c83f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 749, y: 237}
+  - name: Sound vol bar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1004
+      y: 207
+      width: 4
+      height: 8
+    spriteID: 1895c70ab22ed014fb00b915e36f8d82
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 809, y: 91}
+  - name: Music Vol bar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1004
+      y: 223
+      width: 4
+      height: 8
+    spriteID: 0f7f6a1d118063a4588e165e35cc077c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 815, y: 118}
+  - name: Volume Bars
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 420
+      width: 38
+      height: 4
+    spriteID: 5b7cf53d27a4d2f4c9f6bf059cd9e668
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 143, y: 303}
+  - name: Screen Res Arrows
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 794
+      y: 315
+      width: 4
+      height: 6
+    spriteID: 05611c84ee7880747994542d7c36d70c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 621, y: 219}
+  - name: Screen Res example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 424
+      width: 34
+      height: 8
+    spriteID: a59c27a4af8c7e240a986cdcb3733a14
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 98, y: 329}
+  - name: Settings Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 516
+      y: 4
+      width: 174
+      height: 180
+    spriteID: 960dde8facf879c48aa88a36f2c6d90f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 443, y: 4}
+  - name: Aura Select Bar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 958
+      y: 325
+      width: 44
+      height: 1
+    spriteID: 8d594ee36e868b24e99ddaf346859fe4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 814, y: 162}
+  - name: Red Equip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 839
+      y: 296
+      width: 6
+      height: 7
+    spriteID: a1a261d7fe6751f4ea8e64217169e862
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 706, y: 157}
+  - name: Green Equip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 853
+      y: 296
+      width: 6
+      height: 7
+    spriteID: 9a85cf0bc27375642a8b3356611d24b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 720, y: 144}
+  - name: Blue Equip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1004
+      y: 192
+      width: 6
+      height: 7
+    spriteID: 6b58fe8d9e2ac634fa10726c90f96b9f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 871, y: 27}
+  - name: AURAS Title
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 698
+      y: 148
+      width: 36
+      height: 8
+    spriteID: 226a509abd7bd3542a058841ec05870a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 614, y: 26}
+  - name: Essence List example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 868
+      y: 192
+      width: 128
+      height: 74
+    spriteID: 9482b1f9a0a7da64d852bb7dea66a7c7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 724, y: 92}
+  - name: Aura Text example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 296
+      width: 94
+      height: 11
+    spriteID: 4d921dfe42875f84b85167e25377d862
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 601, y: 231}
+  - name: Aura Border
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 698
+      y: 4
+      width: 208
+      height: 136
+    spriteID: c84df4f74f0e5344b99460167d9cf258
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 626, y: -40}
+  - name: Combat Select
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 962
+      y: 178
+      width: 35
+      height: 5
+    spriteID: 9da7ac2e7617d9940b98a4006e1707ae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 893, y: 121}
+  - name: Spirit Select
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 742
+      y: 148
+      width: 32
+      height: 5
+    spriteID: 6804e70c41851664cb02ed809bdb2622
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 683, y: 76}
+  - name: Passive Select
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 178
+      width: 40
+      height: 5
+    spriteID: 93b7da770e9729146bef60ecb0086fd9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 845, y: 92}
+  - name: Essence Categories
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 958
+      y: 274
+      width: 56
+      height: 43
+    spriteID: 2f008cce6ffd1e040bc72bdd25417788
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 905, y: 220}
+  - name: Aura Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 91
+      width: 96
+      height: 79
+    spriteID: 20ff3fbd84ef00447a427ed5f2865f0b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 882, y: 55}
+  - name: Aura Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 192
+      width: 208
+      height: 136
+    spriteID: c6c3b06f7faee4b4282ce3641744a034
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: 148}
+  - name: Moveset Borders
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 192
+      width: 208
+      height: 136
+    spriteID: 3c8964749428f434482e4fb9bd231b24
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 165, y: 148}
+  - name: MOVESET Title
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 315
+      width: 49
+      height: 8
+    spriteID: dc82b4d6b80cf094c9266d285271148b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 669, y: 151}
+  - name: Moveset Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 436
+      y: 192
+      width: 208
+      height: 136
+    spriteID: 6d5d7b856259a484dab0b24ea5cedcc1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 381, y: 148}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 320, y: 180}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers:
+  - name: MENU
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 47
+    mosaicPosition: {x: 0, y: 0}
+  - name: AOI
+    spriteName: AOI
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0ab0bd8f50f34984fb34d7081d367b14
+    layerID: 46
+    mosaicPosition: {x: 404, y: 336}
+  - name: Boss Clear Flame
+    spriteName: Boss Clear Flame
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7d73c81bf8db2a34b8cbebf12993701b
+    layerID: 45
+    mosaicPosition: {x: 850, y: 315}
+  - name: Boss Counter
+    spriteName: Boss Counter
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 70a2561e42f1cd344a49c95f30176407
+    layerID: 44
+    mosaicPosition: {x: 367, y: 409}
+  - name: Menu Text example
+    spriteName: Menu Text example
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b9553b8a8ba1da247b51e439d0fd6790
+    layerID: 43
+    mosaicPosition: {x: 220, y: 336}
+  - name: Menu Buttons
+    spriteName: Menu Buttons
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6c20bc99961f1f043abc8eb4818abaeb
+    layerID: 42
+    mosaicPosition: {x: 321, y: 336}
+  - name: Menu Borders
+    spriteName: Menu Borders
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 283fec3ae9d6fdc499921c51a6e66b94
+    layerID: 41
+    mosaicPosition: {x: 652, y: 192}
+  - name: Menu Select Bar
+    spriteName: Menu Select Bar
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 08ea562d2e93d1947b3093ae89d98e30
+    layerID: 40
+    mosaicPosition: {x: 220, y: 411}
+  - name: Menu Box
+    spriteName: Menu Box
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6da8546fff0919a4ebf6404a6c8110e2
+    layerID: 39
+    mosaicPosition: {x: 914, y: 4}
+  - name: Menu Bg
+    spriteName: Menu Bg
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 426ea24f58840354d8a2e46e1ca9225c
+    layerID: 38
+    mosaicPosition: {x: 4, y: 336}
+  - name: SETTINGS
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+  - name: Select Pointer
+    spriteName: Select Pointer
+    isGroup: 0
+    parentIndex: 10
+    spriteID: c225c139e95733a4798d77adc88face8
+    layerID: 35
+    mosaicPosition: {x: 1005, y: 178}
+  - name: Settings Border
+    spriteName: Settings Border
+    isGroup: 0
+    parentIndex: 10
+    spriteID: af0b408305eeadf43acaf46b5e4f4ee8
+    layerID: 34
+    mosaicPosition: {x: 332, y: 4}
+  - name: SETTINGS Title
+    spriteName: SETTINGS Title
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 0e2faa5e5337c7045a6c17bf8452b176
+    layerID: 33
+    mosaicPosition: {x: 220, y: 424}
+  - name: Settings 1
+    spriteName: Settings 1
+    isGroup: 0
+    parentIndex: 10
+    spriteID: be11bb2afad974643a7d3021e08fa253
+    layerID: 32
+    mosaicPosition: {x: 652, y: 296}
+  - name: Settings 2
+    spriteName: Settings 2
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 04ec3c16370deac4ba9e5d7830cb6968
+    layerID: 31
+    mosaicPosition: {x: 868, y: 274}
+  - name: Sound vol bar
+    spriteName: Sound vol bar
+    isGroup: 0
+    parentIndex: 10
+    spriteID: e025f4fae30a66945961787d0c31e105
+    layerID: 30
+    mosaicPosition: {x: 1004, y: 207}
+  - name: Music Vol bar
+    spriteName: Music Vol bar
+    isGroup: 0
+    parentIndex: 10
+    spriteID: c83abb8ea8bf4284c8ad1608fabee093
+    layerID: 29
+    mosaicPosition: {x: 1004, y: 223}
+  - name: Volume Bars
+    spriteName: Volume Bars
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 97ef64a35834e684ab0cde6e3dc45394
+    layerID: 28
+    mosaicPosition: {x: 321, y: 409}
+  - name: Screen Res Arrows
+    spriteName: Screen Res Arrows
+    isGroup: 0
+    parentIndex: 10
+    spriteID: cac10f422af5c394b9fc5399416f030e
+    layerID: 27
+    mosaicPosition: {x: 794, y: 315}
+  - name: Screen Res example
+    spriteName: Screen Res example
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 3a7ce300f0df723469f909ec62ef7cd8
+    layerID: 26
+    mosaicPosition: {x: 278, y: 424}
+  - name: Settings Bg
+    spriteName: Settings Bg
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 16d50036c50dec346b55b6c36818ba2d
+    layerID: 25
+    mosaicPosition: {x: 516, y: 4}
+  - name: AURAS
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 23
+    mosaicPosition: {x: 0, y: 0}
+  - name: Aura Select Bar
+    spriteName: Aura Select Bar
+    isGroup: 0
+    parentIndex: 22
+    spriteID: e43f1c32bceb7ca43b90dd0cd07e3ed0
+    layerID: 22
+    mosaicPosition: {x: 958, y: 325}
+  - name: Red Equip
+    spriteName: Red Equip
+    isGroup: 0
+    parentIndex: 22
+    spriteID: d3065bc62a4cb6241951f5e93f6be1af
+    layerID: 21
+    mosaicPosition: {x: 839, y: 296}
+  - name: Green Equip
+    spriteName: Green Equip
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 6e6b136549990a2418554e73b5b25392
+    layerID: 20
+    mosaicPosition: {x: 853, y: 296}
+  - name: Blue Equip
+    spriteName: Blue Equip
+    isGroup: 0
+    parentIndex: 22
+    spriteID: db29a2be05533af47973b5a8b0b99c02
+    layerID: 19
+    mosaicPosition: {x: 1004, y: 192}
+  - name: AURAS Title
+    spriteName: AURAS Title
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4673ff8e178908a45a57e40ae5dfa131
+    layerID: 18
+    mosaicPosition: {x: 698, y: 148}
+  - name: Essence List example
+    spriteName: Essence List example
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4b8e0c679c5b5d04f820622191c07927
+    layerID: 17
+    mosaicPosition: {x: 868, y: 192}
+  - name: Aura Text example
+    spriteName: Aura Text example
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 980530d04b4d02640bc425d1de2a6122
+    layerID: 16
+    mosaicPosition: {x: 737, y: 296}
+  - name: Aura Border
+    spriteName: Aura Border
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 1dc7a40a787380d46acad144e70d40f3
+    layerID: 15
+    mosaicPosition: {x: 698, y: 4}
+  - name: Combat Select
+    spriteName: Combat Select
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 6b81d149f80cdef4ab25b8ac62a5e070
+    layerID: 14
+    mosaicPosition: {x: 962, y: 178}
+  - name: Spirit Select
+    spriteName: Spirit Select
+    isGroup: 0
+    parentIndex: 22
+    spriteID: c5b7fb82883069946b46169677f65a03
+    layerID: 13
+    mosaicPosition: {x: 742, y: 148}
+  - name: Passive Select
+    spriteName: Passive Select
+    isGroup: 0
+    parentIndex: 22
+    spriteID: ce95671267c94504683f40c0314549af
+    layerID: 12
+    mosaicPosition: {x: 914, y: 178}
+  - name: Essence Categories
+    spriteName: Essence Categories
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 5f7bc2337a35c634bbbea87307da41ba
+    layerID: 11
+    mosaicPosition: {x: 958, y: 274}
+  - name: Aura Box
+    spriteName: Aura Box
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9375813eb098c9b4bb07e5c81eee7889
+    layerID: 10
+    mosaicPosition: {x: 914, y: 91}
+  - name: Aura Bg
+    spriteName: Aura Bg
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 023e556b2f5df7042b9530f653257205
+    layerID: 9
+    mosaicPosition: {x: 4, y: 192}
+  - name: MOVESET
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 7
+    mosaicPosition: {x: 0, y: 0}
+  - name: Moveset Borders
+    spriteName: Moveset Borders
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 0e146e016ab2f48439acb07595d2712c
+    layerID: 6
+    mosaicPosition: {x: 220, y: 192}
+  - name: MOVESET Title
+    spriteName: MOVESET Title
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 94e9c074be6e8f74a890ede9be35f480
+    layerID: 5
+    mosaicPosition: {x: 737, y: 315}
+  - name: Moveset Bg
+    spriteName: Moveset Bg
+    isGroup: 0
+    parentIndex: 37
+    spriteID: a3c059dd0fd69244c8ff09b5b41bb885
+    layerID: 4
+    mosaicPosition: {x: 436, y: 192}
+  - name: BG REF
+    spriteName: BG REF
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40237027baa61bb49a96e5fcee00707c
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  rigPSDLayers:
+  - name: MENU
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 47
+    mosaicPosition: {x: 0, y: 0}
+  - name: AOI
+    spriteName: AOI
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 87c689d8ec196b64a993d532b02e5bbb
+    layerID: 46
+    mosaicPosition: {x: 404, y: 336}
+  - name: Boss Clear Flame
+    spriteName: Boss Clear Flame
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7543bcdd90618f84ab96c791a46352a5
+    layerID: 45
+    mosaicPosition: {x: 850, y: 315}
+  - name: Boss Counter
+    spriteName: Boss Counter
+    isGroup: 0
+    parentIndex: 0
+    spriteID: df664fd4047406f47a0df6e565fbba7f
+    layerID: 44
+    mosaicPosition: {x: 367, y: 409}
+  - name: Menu Text example
+    spriteName: Menu Text example
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 352030d996eb8654685e0248fe617c45
+    layerID: 43
+    mosaicPosition: {x: 220, y: 336}
+  - name: Menu Buttons
+    spriteName: Menu Buttons
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 49f22daf3ebc45b4bb03675fd493e662
+    layerID: 42
+    mosaicPosition: {x: 321, y: 336}
+  - name: Menu Borders
+    spriteName: Menu Borders
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c4fdf5bd220791b45909b1d2cd3bed55
+    layerID: 41
+    mosaicPosition: {x: 652, y: 192}
+  - name: Menu Select Bar
+    spriteName: Menu Select Bar
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7dfcba4bffa2e44498a2e7814abfbc4b
+    layerID: 40
+    mosaicPosition: {x: 220, y: 411}
+  - name: Menu Box
+    spriteName: Menu Box
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9a8f5a74799755c45af7419f4c24fd71
+    layerID: 39
+    mosaicPosition: {x: 914, y: 4}
+  - name: Menu Bg
+    spriteName: Menu Bg
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8446f11f8bd0a904aa06f5f73a0b42cc
+    layerID: 38
+    mosaicPosition: {x: 4, y: 336}
+  - name: SETTINGS
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+  - name: Select Pointer
+    spriteName: Select Pointer
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 21ebc242406bb1c498590937f70950b6
+    layerID: 35
+    mosaicPosition: {x: 1005, y: 178}
+  - name: Settings Border
+    spriteName: Settings Border
+    isGroup: 0
+    parentIndex: 10
+    spriteID: d974228ee5f454648a8b5a8b266511d1
+    layerID: 34
+    mosaicPosition: {x: 332, y: 4}
+  - name: SETTINGS Title
+    spriteName: SETTINGS Title
+    isGroup: 0
+    parentIndex: 10
+    spriteID: a3a517d5fe0989e4c89775bef819ba3e
+    layerID: 33
+    mosaicPosition: {x: 220, y: 424}
+  - name: Settings 1
+    spriteName: Settings 1
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 54fbac2641965484e9fa71879b346dd1
+    layerID: 32
+    mosaicPosition: {x: 652, y: 296}
+  - name: Settings 2
+    spriteName: Settings 2
+    isGroup: 0
+    parentIndex: 10
+    spriteID: cf4c22add7ca5654d80187186e68c83f
+    layerID: 31
+    mosaicPosition: {x: 868, y: 274}
+  - name: Sound vol bar
+    spriteName: Sound vol bar
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 1895c70ab22ed014fb00b915e36f8d82
+    layerID: 30
+    mosaicPosition: {x: 1004, y: 207}
+  - name: Music Vol bar
+    spriteName: Music Vol bar
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 0f7f6a1d118063a4588e165e35cc077c
+    layerID: 29
+    mosaicPosition: {x: 1004, y: 223}
+  - name: Volume Bars
+    spriteName: Volume Bars
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 5b7cf53d27a4d2f4c9f6bf059cd9e668
+    layerID: 28
+    mosaicPosition: {x: 321, y: 409}
+  - name: Screen Res Arrows
+    spriteName: Screen Res Arrows
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 05611c84ee7880747994542d7c36d70c
+    layerID: 27
+    mosaicPosition: {x: 794, y: 315}
+  - name: Screen Res example
+    spriteName: Screen Res example
+    isGroup: 0
+    parentIndex: 10
+    spriteID: a59c27a4af8c7e240a986cdcb3733a14
+    layerID: 26
+    mosaicPosition: {x: 278, y: 424}
+  - name: Settings Bg
+    spriteName: Settings Bg
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 960dde8facf879c48aa88a36f2c6d90f
+    layerID: 25
+    mosaicPosition: {x: 516, y: 4}
+  - name: AURAS
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 23
+    mosaicPosition: {x: 0, y: 0}
+  - name: Aura Select Bar
+    spriteName: Aura Select Bar
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 8d594ee36e868b24e99ddaf346859fe4
+    layerID: 22
+    mosaicPosition: {x: 958, y: 325}
+  - name: Red Equip
+    spriteName: Red Equip
+    isGroup: 0
+    parentIndex: 22
+    spriteID: a1a261d7fe6751f4ea8e64217169e862
+    layerID: 21
+    mosaicPosition: {x: 839, y: 296}
+  - name: Green Equip
+    spriteName: Green Equip
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9a85cf0bc27375642a8b3356611d24b4
+    layerID: 20
+    mosaicPosition: {x: 853, y: 296}
+  - name: Blue Equip
+    spriteName: Blue Equip
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 6b58fe8d9e2ac634fa10726c90f96b9f
+    layerID: 19
+    mosaicPosition: {x: 1004, y: 192}
+  - name: AURAS Title
+    spriteName: AURAS Title
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 226a509abd7bd3542a058841ec05870a
+    layerID: 18
+    mosaicPosition: {x: 698, y: 148}
+  - name: Essence List example
+    spriteName: Essence List example
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9482b1f9a0a7da64d852bb7dea66a7c7
+    layerID: 17
+    mosaicPosition: {x: 868, y: 192}
+  - name: Aura Text example
+    spriteName: Aura Text example
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4d921dfe42875f84b85167e25377d862
+    layerID: 16
+    mosaicPosition: {x: 737, y: 296}
+  - name: Aura Border
+    spriteName: Aura Border
+    isGroup: 0
+    parentIndex: 22
+    spriteID: c84df4f74f0e5344b99460167d9cf258
+    layerID: 15
+    mosaicPosition: {x: 698, y: 4}
+  - name: Combat Select
+    spriteName: Combat Select
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9da7ac2e7617d9940b98a4006e1707ae
+    layerID: 14
+    mosaicPosition: {x: 962, y: 178}
+  - name: Spirit Select
+    spriteName: Spirit Select
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 6804e70c41851664cb02ed809bdb2622
+    layerID: 13
+    mosaicPosition: {x: 742, y: 148}
+  - name: Passive Select
+    spriteName: Passive Select
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 93b7da770e9729146bef60ecb0086fd9
+    layerID: 12
+    mosaicPosition: {x: 914, y: 178}
+  - name: Essence Categories
+    spriteName: Essence Categories
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 2f008cce6ffd1e040bc72bdd25417788
+    layerID: 11
+    mosaicPosition: {x: 958, y: 274}
+  - name: Aura Box
+    spriteName: Aura Box
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 20ff3fbd84ef00447a427ed5f2865f0b
+    layerID: 10
+    mosaicPosition: {x: 914, y: 91}
+  - name: Aura Bg
+    spriteName: Aura Bg
+    isGroup: 0
+    parentIndex: 22
+    spriteID: c6c3b06f7faee4b4282ce3641744a034
+    layerID: 9
+    mosaicPosition: {x: 4, y: 192}
+  - name: MOVESET
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 7
+    mosaicPosition: {x: 0, y: 0}
+  - name: Moveset Borders
+    spriteName: Moveset Borders
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 3c8964749428f434482e4fb9bd231b24
+    layerID: 6
+    mosaicPosition: {x: 220, y: 192}
+  - name: MOVESET Title
+    spriteName: MOVESET Title
+    isGroup: 0
+    parentIndex: 37
+    spriteID: dc82b4d6b80cf094c9266d285271148b
+    layerID: 5
+    mosaicPosition: {x: 737, y: 315}
+  - name: Moveset Bg
+    spriteName: Moveset Bg
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 6d5d7b856259a484dab0b24ea5cedcc1
+    layerID: 4
+    mosaicPosition: {x: 436, y: 192}
+  - name: BG REF
+    spriteName: BG REF
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7dd3e68ad44bfb149b32ca22c15266f8
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: deathendstation_menu Texture
+  prefabAssetName: deathendstation_menu Prefab
+  spriteLibAssetName: deathendstation_menu Sprite Lib
+  secondarySpriteTextures: []

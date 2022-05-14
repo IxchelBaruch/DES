@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1e1e8dd7587bb240a60c750544044ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hudIcon: {instanceID: 0}
+  - objectToInstantiate: {instanceID: 0}
+  - UIButton: {fileID: 7453877931777537905, guid: fbf441a8e060a124cb6bcc9266dfbf1f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

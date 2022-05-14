@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 99f3023e3300b454c9d541cc9aad5ca9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7957423460069224517
+    second: Teke_Intro_0
+  - first:
+      213: -5382044561901652076
+    second: Teke_Intro_1
+  - first:
+      213: -5272629498865407493
+    second: Teke_Intro_2
+  - first:
+      213: 7227630058145670571
+    second: Teke_Intro_3
+  - first:
+      213: -8817027980146834251
+    second: Teke_Intro_4
+  - first:
+      213: 3619466217723757694
+    second: Teke_Intro_5
+  - first:
+      213: 7380466828499483912
+    second: Teke_Intro_6
+  - first:
+      213: 7950399840078868942
+    second: Teke_Intro_7
+  - first:
+      213: -4457208901922748520
+    second: Teke_Intro_8
+  - first:
+      213: 7727623535649156976
+    second: Teke_Intro_9
+  - first:
+      213: 588596831435206923
+    second: Teke_Intro_10
+  - first:
+      213: 8666763379701248919
+    second: Teke_Intro_11
+  - first:
+      213: 6845358404095436301
+    second: Teke_Intro_12
+  - first:
+      213: 1917182739696065048
+    second: Teke_Intro_13
+  - first:
+      213: -530059224995023825
+    second: Teke_Intro_14
+  - first:
+      213: -3121771600994800379
+    second: Teke_Intro_15
+  - first:
+      213: -6199405349699711522
+    second: Teke_Intro_16
+  - first:
+      213: -8020228305939836533
+    second: Teke_Intro_17
+  - first:
+      213: 4937240149784224116
+    second: Teke_Intro_18
+  - first:
+      213: 1040583203600757373
+    second: Teke_Intro_19
+  - first:
+      213: 2140326300571864877
+    second: Teke_Intro_20
+  - first:
+      213: 8978021397548280890
+    second: Teke_Intro_21
+  - first:
+      213: 5649439033753209525
+    second: Teke_Intro_22
+  - first:
+      213: 7342594609418434483
+    second: Teke_Intro_23
+  - first:
+      213: 2653881611592072045
+    second: Teke_Intro_24
+  - first:
+      213: -8435251202252437171
+    second: Teke_Intro_25
+  - first:
+      213: 3633247836843542545
+    second: Teke_Intro_26
+  - first:
+      213: -2829849475853214698
+    second: Teke_Intro_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teke_Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfc637f58d819190800000000000000
+      internalID: -7957423460069224517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497778a7cf22f45b0800000000000000
+      internalID: -5382044561901652076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a1e7086bd3d6b0800000000000000
+      internalID: -5272629498865407493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba565b78e33bd4460800000000000000
+      internalID: 7227630058145670571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40ba444cf93a580800000000000000
+      internalID: -8817027980146834251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7483f7295dea3230800000000000000
+      internalID: 3619466217723757694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80df3452a7fac6660800000000000000
+      internalID: 7380466828499483912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13932188e755e60800000000000000
+      internalID: 7950399840078868942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978f277e10d422c0800000000000000
+      internalID: -4457208901922748520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_9
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe058b9a80e3b60800000000000000
+      internalID: 7727623535649156976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01bd9d13bd1b2800800000000000000
+      internalID: 588596831435206923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_11
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793f4771067864870800000000000000
+      internalID: 8666763379701248919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e75443399ffe50800000000000000
+      internalID: 6845358404095436301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a18194b833b9a10800000000000000
+      internalID: 1917182739696065048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b04871f9d4a8f0800000000000000
+      internalID: -530059224995023825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6dccc44d3da4d0800000000000000
+      internalID: -3121771600994800379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0e782ea947f9a0800000000000000
+      internalID: -6199405349699711522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b815ce649dc62b090800000000000000
+      internalID: -8020228305939836533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4716fa2f1c9948440800000000000000
+      internalID: 4937240149784224116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d727cd119e4e07e00800000000000000
+      internalID: 1040583203600757373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f03013e67f3bd10800000000000000
+      internalID: 2140326300571864877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca8bab4e6589c70800000000000000
+      internalID: 8978021397548280890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba06138ed6d66e40800000000000000
+      internalID: 5649439033753209525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7751005e226e560800000000000000
+      internalID: 7342594609418434483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bf2eec34b74d420800000000000000
+      internalID: 2653881611592072045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498e8239b7ffea80800000000000000
+      internalID: -8435251202252437171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118040868a3eb6230800000000000000
+      internalID: 3633247836843542545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Intro_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c91f715ea5ab8d0800000000000000
+      internalID: -2829849475853214698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

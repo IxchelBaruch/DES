@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: d50fd3294bcbfbc4d880ca99f30de3fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 556647077300216398
+    second: Teke_Detach_0
+  - first:
+      213: -1943620236548304926
+    second: Teke_Detach_1
+  - first:
+      213: 4620217259344142818
+    second: Teke_Detach_2
+  - first:
+      213: 7483525235624309885
+    second: Teke_Detach_3
+  - first:
+      213: 8127343345318803072
+    second: Teke_Detach_4
+  - first:
+      213: 2077882195174292770
+    second: Teke_Detach_5
+  - first:
+      213: 6628608953582183137
+    second: Teke_Detach_6
+  - first:
+      213: -191938559904912763
+    second: Teke_Detach_7
+  - first:
+      213: 5310108195248079503
+    second: Teke_Detach_8
+  - first:
+      213: 6421244752032627523
+    second: Teke_Detach_9
+  - first:
+      213: 1572398641987158479
+    second: Teke_Detach_10
+  - first:
+      213: 9049845903260605415
+    second: Teke_Detach_11
+  - first:
+      213: 6341710829470917375
+    second: Teke_Detach_12
+  - first:
+      213: 4144771162366584914
+    second: Teke_Detach_13
+  - first:
+      213: -5319365936701610445
+    second: Teke_Detach_14
+  - first:
+      213: 5366240477188137790
+    second: Teke_Detach_15
+  - first:
+      213: 7580443496855262154
+    second: Teke_Detach_16
+  - first:
+      213: -7674428760678329670
+    second: Teke_Detach_17
+  - first:
+      213: 2455580943088364938
+    second: Teke_Detach_18
+  - first:
+      213: 6945432884370738458
+    second: Teke_Detach_19
+  - first:
+      213: -2009243171967972997
+    second: Teke_Detach_20
+  - first:
+      213: -999932441498940347
+    second: Teke_Detach_21
+  - first:
+      213: -1904211637943064615
+    second: Teke_Detach_22
+  - first:
+      213: -8547362788313215995
+    second: Teke_Detach_23
+  - first:
+      213: 1159195376318646351
+    second: Teke_Detach_24
+  - first:
+      213: -8387154697688390324
+    second: Teke_Detach_25
+  - first:
+      213: -1849113514154659115
+    second: Teke_Detach_26
+  - first:
+      213: 8866092147461292142
+    second: Teke_Detach_27
+  - first:
+      213: 5928105915391074488
+    second: Teke_Detach_28
+  - first:
+      213: 8511380787032089867
+    second: Teke_Detach_29
+  - first:
+      213: 876081781803347737
+    second: Teke_Detach_30
+  - first:
+      213: 6179154246492985344
+    second: Teke_Detach_31
+  - first:
+      213: 7030632936562831446
+    second: Teke_Detach_32
+  - first:
+      213: 4775910142369809866
+    second: Teke_Detach_33
+  - first:
+      213: -1320419408246173090
+    second: Teke_Detach_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teke_Detach_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e422dbb419b99b700800000000000000
+      internalID: 556647077300216398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1280
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef074e41bfd605e0800000000000000
+      internalID: -1943620236548304926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1280
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e126505e1f4e1040800000000000000
+      internalID: 4620217259344142818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1280
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74fe096d82dad760800000000000000
+      internalID: 7483525235624309885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1280
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086bc5946bf1ac070800000000000000
+      internalID: 8127343345318803072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1280
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df870f8de16dc10800000000000000
+      internalID: 2077882195174292770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26d3139bc8dfb50800000000000000
+      internalID: 6628608953582183137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aea2e85e8165df0800000000000000
+      internalID: -191938559904912763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8207a8f44b41b940800000000000000
+      internalID: 5310108195248079503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_9
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bfebca418dc1950800000000000000
+      internalID: 6421244752032627523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc183f4eb3842d510800000000000000
+      internalID: 1572398641987158479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_11
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1024
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb5fdf96e2879d70800000000000000
+      internalID: 9049845903260605415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2acda4668420850800000000000000
+      internalID: 6341710829470917375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a428896f258930800000000000000
+      internalID: 4144771162366584914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33666902dd0dd26b0800000000000000
+      internalID: -5319365936701610445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e332f1e4847b87a40800000000000000
+      internalID: 5366240477188137790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35afd8235233960800000000000000
+      internalID: 7580443496855262154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 768
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab21ab9f3b3fe7590800000000000000
+      internalID: -7674428760678329670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d20068bd9f31220800000000000000
+      internalID: 2455580943088364938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d0c3ce862236060800000000000000
+      internalID: 6945432884370738458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7948730bfbbd14e0800000000000000
+      internalID: -2009243171967972997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c01190eb68f12f0800000000000000
+      internalID: -999932441498940347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d72d3faa91e295e0800000000000000
+      internalID: -1904211637943064615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 512
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc23474daa16980800000000000000
+      internalID: -8547362788313215995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f488fb69d0a461010800000000000000
+      internalID: 1159195376318646351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e8005d37da9b80800000000000000
+      internalID: -8387154697688390324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ff6f4e01a656e0800000000000000
+      internalID: -1849113514154659115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e608f4365dfaa0b70800000000000000
+      internalID: 8866092147461292142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_28
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e6cdebecd44250800000000000000
+      internalID: 5928105915391074488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 256
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05e1270bbf7e1670800000000000000
+      internalID: 8511380787032089867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f64962db7782c00800000000000000
+      internalID: 876081781803347737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0089f827c04c0c550800000000000000
+      internalID: 6179154246492985344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503df9e763d19160800000000000000
+      internalID: 7030632936562831446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_33
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5432b78f0774240800000000000000
+      internalID: 4775910142369809866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teke_Detach_34
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5294f84b8decade0800000000000000
+      internalID: -1320419408246173090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

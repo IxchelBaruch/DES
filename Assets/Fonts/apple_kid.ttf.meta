@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d012fd6796b77fc4fa548998baa75fb7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Apple Kid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 51dc24440d966284381cb6f1b84a501b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
